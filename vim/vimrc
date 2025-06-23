@@ -1,0 +1,29 @@
+syntax on
+filetype plugin indent on
+set history=1000
+imap jk <Esc>
+nnoremap ; :
+nmap ) 0
+nnoremap a A
+nnoremap A a
+
+nnoremap "" "+yG
+vnoremap "" "+y
+
+nmap fh <C-w>h
+nmap fj <C-w>j
+nmap fk <C-w>k
+nmap fl <C-w>l
+
+nmap q; q:
+set tw=79
+set colorcolumn=80
+set shiftwidth=4
+set expandtab
+set tabstop=4
+set autoread
+nnoremap gf <C-W>gf
+vnoremap gf <C-W>gf
+set scrolloff=4
+set nu
+
