@@ -27,3 +27,4 @@ vnoremap gf <C-W>gf
 set scrolloff=4
 set nu
 
+
