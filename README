@@ -1,0 +1,1 @@
+curl -o ~/.vimrc https://raw.githubusercontent.com/hunaphu/dotfiles/refs/heads/main/vim/vimrc
